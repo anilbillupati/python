@@ -1,0 +1,29 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor / Tool configurations
+.claude/
+.codevector.json
+.vscode/
+.idea/
+
+# Environment variables & secrets
+.env
+.env.*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
